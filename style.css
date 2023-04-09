@@ -1,0 +1,20 @@
+body {
+  background-image: url("./Image/backgroundClockImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.heading {
+  margin-top: 0% !important;
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+}
+.container {
+  text-align: center;
+  font-size: xxx-large;
+  color: white;
+  text-shadow: 1px 1px rgb(247, 251, 252);
+  padding: 1px;
+  margin: 10px 345px 12px 392px;
+}
